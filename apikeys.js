@@ -1,0 +1,3 @@
+const CURRENT_WEATHER = '02a1c175ec798f53253a8fd478e1c50c' 
+
+export default CURRENT_WEATHER;
